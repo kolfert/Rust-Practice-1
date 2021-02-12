@@ -1,1 +1,6 @@
 Notes to live by....
+
+blockchain == casper.io
+smart contracts written in rustlang: rust-lang.org
+revsion control via GIT:  https://github/kolfert/rust-practice-1
+IDE == VScode
